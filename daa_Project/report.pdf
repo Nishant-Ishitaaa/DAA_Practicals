@@ -1,0 +1,75 @@
+📘 Project Report
+Title:
+
+Efficiency in Order: Visualization of Sorting Algorithms
+
+1. Introduction
+
+Sorting is one of the most fundamental operations in computer science, used to arrange data in a specific order for easier processing and searching.
+This project, Sorting Visualizer, aims to demonstrate the working of various sorting algorithms through a visual representation. It helps users understand how each algorithm sorts an array step by step.
+
+2. Objectives
+
+To visualize and compare different sorting algorithms.
+
+To provide a clear understanding of algorithm behavior through animations.
+
+To build an interactive and educational web-based tool.
+
+3. Technologies Used
+Technology	Purpose
+HTML	Structure of the web page
+CSS	Styling and layout
+JavaScript	Logic for sorting and animations
+VS Code	Code editor used
+Live Server	To run and preview the project locally
+4. Algorithms Implemented
+
+Bubble Sort – Compares adjacent elements and swaps if needed.
+
+Insertion Sort – Builds the sorted array one element at a time.
+
+Selection Sort – Finds the minimum element and places it in sorted order.
+
+Merge Sort – Uses divide and conquer technique to split and merge arrays.
+
+Quick Sort – Uses partitioning and recursion for efficient sorting.
+
+5. Working Principle
+
+The program generates an array of random bars representing unsorted numbers.
+
+When the user selects a sorting algorithm and clicks the “Start” button, the corresponding algorithm runs.
+
+Each comparison or swap is visually represented through color changes and movement.
+
+The animation continues until the array becomes fully sorted.
+
+6. User Interface
+
+beforeSortingUI.png
+
+7. Output
+
+AfterSortingUI.png
+
+8. Conclusion
+
+The Sorting Visualizer project successfully demonstrates how sorting algorithms work internally. By observing the visualization, users can easily understand differences in algorithm efficiency and behavior.
+This project also strengthens fundamental programming and algorithmic understanding while improving front-end development skills.
+
+9. Future Enhancements
+
+Add more algorithms like Heap Sort and Radix Sort.
+
+Include real-time speed and size controls.
+
+Add complexity comparison graphs.
+
+10. References
+
+GeeksforGeeks - Sorting Algorithms
+
+Visualgo.net
+
+JavaScript documentation (MDN)
